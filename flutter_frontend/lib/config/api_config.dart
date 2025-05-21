@@ -1,1 +1,1 @@
-const String BASE_URL = 'http://192.168.0.7:3000';
+const String BASE_URL = 'https://calendar-booking-api-backend.onrender.com';
